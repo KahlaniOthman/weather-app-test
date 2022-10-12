@@ -24,3 +24,8 @@ main {
   font-weight: 600;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
+
+/* commit 3 change commit 3 */
+.test {
+  color: "res";
+}
